@@ -2,7 +2,7 @@
   "name": "goit-react-hw-04-hooks-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dubnianskaya.github.io/goit-react-hw-04-hooks-images",
+  "homepage": "https://dubnianskaya.github.io/goit-react-hw-04-hooks-feedback",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
